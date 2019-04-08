@@ -208,13 +208,13 @@ const canvasTrack = {
   backgroundColor: "#ededed",
   border: "1px solid #808080",
   borderWidth: "1px 1px 1px 1px",
-  width: "100px",
+  width: "80px",
   padding: "0px"
 };
 
 const inputPortStyle = {
   width: "100%",
-  height: "2px",
+  height: "1px",
   backgroundColor: "#055",
   float: "left"
 };
