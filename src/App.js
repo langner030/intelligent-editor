@@ -393,7 +393,7 @@ class App extends Component {
         }
       });
     } else {
-      console.log("track not found with id " + event.target.id);
+      console.log("event not found with id " + eventid);
     }
   }
 
@@ -472,7 +472,7 @@ class App extends Component {
         ]
       }
     });
-    this.changeTrackById(pevent.id);
+    
   }
 
   onChangeTrackTitle(event) {
